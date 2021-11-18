@@ -2,6 +2,7 @@
 const kAppDescription =
     'A 3rd party & cross-platform wallet\nfor Zenon Network'; // TODO: localize
 const kAppGithubUrl = 'https://github.com/Cano-Wallet/app';
+const kAppGithubReleasesUrl = 'https://github.com/Cano-Wallet/app/releases';
 const kAppTwitterUrl = 'https://twitter.com/cano_wallet';
 const kAppFacebookUrl = 'https://facebook.com/cano.wallet';
 const kAppInstagramUrl = 'https://instagram.com/cano_wallet';
