@@ -25,7 +25,7 @@ class MainScreen extends GetView<MainScreenController> {
                 Image.asset(Images.logo, width: 100),
                 const SizedBox(height: 20),
                 const Text(
-                  'Cano',
+                  kAppName,
                   style: TextStyle(fontSize: 40),
                 ),
                 const SizedBox(height: 10),

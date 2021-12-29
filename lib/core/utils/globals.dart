@@ -1,4 +1,5 @@
 // APP
+const kAppName = 'Cano';
 const kAppDescription =
     'A 3rd party & cross-platform wallet\nfor Zenon Network'; // TODO: localize
 const kAppGithubUrl = 'https://github.com/Cano-Wallet/app';
